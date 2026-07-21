@@ -1,0 +1,51 @@
+感谢使用 DBC2C！
+Thank you for using DBC2C!
+
+========================================
+中文
+========================================
+
+DBC2C 是一款面向 CAN 总线开发的实用工具，支持：
+  · DBC 转 C 代码（仅专业版）
+  · Excel 转 DBC
+  · DBC 转 Excel
+
+项目主页：
+  https://xfp23.github.io/
+
+在项目主页上你可以：
+  · 购买 / 获取许可证
+  · 查看软件更新，第一时间获取新版本
+  · 查看生成的 C 代码对应的 API 使用说明
+
+激活方法：
+  购买许可证后，将许可证文件放入软件安装目录（即 DBC2C.exe 所在目录）下，
+  重新启动软件即可自动激活相应版本的功能。
+
+再次感谢你使用 DBC2C，欢迎访问项目主页了解更多信息。
+
+
+========================================
+English
+========================================
+
+DBC2C is a practical tool for CAN bus development, supporting:
+  · DBC to C code generation (Professional Edition only)
+  · Excel to DBC conversion
+  · DBC to Excel conversion
+
+Project homepage:
+  https://xfp23.github.io/
+
+On the project homepage you can:
+  · Purchase / obtain a license
+  · Check for software updates and get new releases first
+  · View the API usage guide for the generated C code
+
+How to activate:
+  After purchasing a license, place the license file into the software's
+  installation directory (the same folder as DBC2C.exe), then restart the
+  software to automatically activate the Edition features.
+
+Thank you again for using DBC2C. Please visit the project homepage for more
+information.
