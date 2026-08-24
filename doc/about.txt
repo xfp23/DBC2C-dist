@@ -11,7 +11,7 @@ DBC2C 是一款面向 CAN 总线开发的实用工具，支持：
   · DBC 转 Excel
 
 项目主页：
-  https://xfp23.github.io/
+  https://xfp23.github.io/2026/07/22/WorkShop/DBC2C/dbc2c
 
 在项目主页上你可以：
   · 购买 / 获取许可证
@@ -35,7 +35,7 @@ DBC2C is a practical tool for CAN bus development, supporting:
   · DBC to Excel conversion
 
 Project homepage:
-  https://xfp23.github.io/
+  https://xfp23.github.io/2026/07/22/WorkShop/DBC2C/dbc2c
 
 On the project homepage you can:
   · Purchase / obtain a license
